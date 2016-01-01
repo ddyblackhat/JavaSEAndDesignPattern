@@ -1,7 +1,7 @@
 package com.ddyblackhat.javase;
 
 /**
- * 普通类模拟实现
+ * 普通类模拟实现 enum
  * 
  * @author dudy
  *
