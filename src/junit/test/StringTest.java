@@ -16,6 +16,17 @@ public class StringTest implements Serializable {
 	}
 
 	@Test
+	public void integerTest(){
+		int a = 10;
+		int b = 10;
+		Integer c = 200;
+		Integer d = 200;
+		System.out.println( a == b);
+		System.out.println( c == d);
+		
+	}
+	
+	@Test
 	public void test1() {
 
 		StringTest test = new StringTest();
